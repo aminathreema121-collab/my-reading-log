@@ -154,11 +154,11 @@ In your repo, add a Screenshots section with image links or filenames like these
 
 ## 📸 Screenshots
 
-1. My Books screen (all books, summary at top)![alt text](image.png)
-2. Add Book screen![alt text](image-1.png)
-3. Edit Book screen ![alt text](image-2.png)
-4. Filtered view (Finished books) ![alt text](image-5.png)
-5. Delete confirmation dialog ![alt text](image-3.png)
+1. My Books screen (all books, summary at top)![all-image.png](all-image.png)
+2. Add Book screen![alt text](addabook-image-1.png)
+3. Edit Book screen ![alt text](editbook-image-2.png)
+4. Filtered view (Finished books) ![alt text](filter-image-4.png)
+5. Delete confirmation dialog ![alt text](deletebook-image-3.png)
 ----
 
 ## 🚀 Installation & Run Instructions
